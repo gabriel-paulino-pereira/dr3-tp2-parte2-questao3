@@ -23,3 +23,4 @@ Como Executar
     uvicorn tradutor_hf_langchain_api:app --reload
 
     Acesse a interface Swagger UI para testes da rota /traduzir-alemaum em:
+    http://127.0.0.1:8000/docs
